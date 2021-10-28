@@ -1,0 +1,19 @@
+
+
+        <svg
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        xmlnsXlink="http://www.w3.org/1999/xlink"
+        xmlnsSvgjs="http://svgjs.com/svgjs"
+        width="300"
+        preserveAspectRatio="none"
+      > 
+      <g mask='url("#SvgjsMask1081")' fill="none"> 
+      <circle
+            class='flex'
+            r="100"
+            fill="rgba(36, 58, 126, 1)"
+     >
+     </circle>
+     </g>
+     </svg>
